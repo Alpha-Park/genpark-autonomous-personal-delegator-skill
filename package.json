@@ -1,0 +1,15 @@
+{
+  "name": "@alphapark/genpark-autonomous-personal-delegator-skill",
+  "version": "1.0.0",
+  "description": "GenPark AI Agent Skill - Autonomous micro-action delegation with user guardrails, confidence thresholding, dry-run previews, and token budget gating.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "license": "Apache-2.0",
+  "keywords": [
+    "genpark",
+    "personal-agent",
+    "intent-anticipation",
+    "episodic-memory",
+    "mcp"
+  ]
+}
